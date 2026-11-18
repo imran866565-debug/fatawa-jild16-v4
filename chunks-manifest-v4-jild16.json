@@ -1,0 +1,153 @@
+{
+ "chunks": [
+  {
+   "chunk": "01",
+   "description": "Jild 16, pp. 4-112",
+   "end_page": 112,
+   "file": "jild-16-chunk-01.json",
+   "items": 6,
+   "pages_present": 28,
+   "start_page": 4,
+   "status": "done",
+   "verified": "2026-11-18 ~14:01 PKT — coordinator verified: 6 items, pp.4-112 (pesh-lafz, hamd, masala-1/2/3, masala-4-ta-10), ids/titles/pages identical+order vs v3, vol 52, sp==min all, 0 empty jawab, 2 empty sawal (pesh-lafz, hamd — as v3), notes 27 vs 24 (+3, all on Arabic restoration; 0 missing), glosses 83x \"کا مطلب\" + 9x \"کہتے ہیں\" (92), A1=0 (no opponent names in this leaf at all; all فرمایا subjects are Ala Hazrat / Sunni imams — علامہ شامی، امام محمد، فقہاء کرام; عبدالباری occurs only in the risala title and as the subject of its refutation, no honorific verb), A2: original pp.4-112 has no opponent harsh terms; خبیث 1x (ملک خبیث، p.95) present in v4 masala-3 with gloss; حرام 1=1; all کتا counts are کتاب/یکتا/سکتا substrings, no standalone insult either side. Restorations (Arabic v3 had dropped, from original): masala-2: 12 quotes (pp.91-94); masala-3: 9 quotes (pp.95-96); masala-4-ta-10: ~30 quotes (pp.97-112, incl. p.102 قولہ فقط hashiya); hamd: full Arabic hamd (p.9). \"جاری ہے\" x1 legitimate — the original's own sentence \"عرف میں یہی جاری ہے\" (p.92), also in v3; no markers. Flags: none."
+  },
+  {
+   "chunk": "02",
+   "description": "Jild 16, pp. 114-145",
+   "end_page": 145,
+   "file": "jild-16-chunk-02.json",
+   "items": 23,
+   "pages_present": 32,
+   "start_page": 114,
+   "status": "done",
+   "verified": "2026-11-18 ~14:03 PKT — coordinator verified: 23 items, pp.114-145 (masala-11 -> masala-46-48), ids/titles/pages identical+order vs v3 chunk-02 + folded masala-46-48, vol 52, sp==min all, 0 empty jawab, 0 empty sawal (as v3), notes 55 vs v3 basis 54 (+1 added fold note; worker counted 52 chunk-02 notes + the fold's second-half 2 = 54 basis — counting-base difference only, subset check 0 missing), glosses 129x \"کا مطلب\" + 16x \"کہتے ہیں\" in sawal+jawab (worker counted 146+16=162 file-wide incl. notes — counting difference only), A1=0 (no flags at all — all فرمایا/فرماتے subjects are Ala Hazrat, Allah, Prophet ﷺ, or Sunni imams; only group terms وہابیہ/روافض/غیر مقلد/نیچری occur, with plain wording), A2: خبیث 1=1 (p.114), احمق 1=1 (p.139, kept exact \"نرے احمق (بیوقوف) بے ادراک (بے سمجھ)\"), کافر 6=6 (p.122 x1, pp.131-134 x5), مردود 2 orig + 2 inside \"مردود کا مطلب ہے\" glosses, گمراہ 1 + 1 inside the \"ضلالت کا مطلب ہے گمراہی\" gloss; کتا hits in both original (69) and v4 (39) are all کتاب/سکتا substrings, no کتا-insult in this leaf; no لعنتی/جہنمی/زندیق/کذاب/بیوقوف in the original range, none added. Restorations (Arabic, from original): m11 لان من شرطہ التابید etc. (3 quotes); m12 فرھن مقبوضۃ; m13 hadith اذا مات الانسان…; m17 للواقف عزل الناظر…; m35 3 quotes; m43 لایجوز لہ ان یفعل…; m46-48 5 quotes (لیس لعرق ظالم حق، الوقف لا یملک…، المنافع تارۃ…، ماقالہ ھذا المحقق…، الظن عدم البقاء…). \"جاری ہے\" x0, no markers; the single \"صفحہ ۱۴۴ پر ختم\" sits inside a verbatim-preserved v3 chunk-boundary note (stale split-meta class). FOLD verified: masala-46-48 written once, pages [142-145], sp 142, sawal 991 (chunk-02's 780 rewritten with glosses), jawab 4,867 (v3 3,971), notes 6 = all 5 v3 (3+2) + 1 added fold note. Flags: none."
+  },
+  {
+   "chunk": "03",
+   "description": "Jild 16, pp. 146-175",
+   "end_page": 175,
+   "file": "jild-16-chunk-03.json",
+   "items": 17,
+   "pages_present": 30,
+   "start_page": 146,
+   "status": "done",
+   "verified": "2026-11-18 ~14:03 PKT — coordinator verified: 17 items, pp.145-175 (masala-49 -> masala-68), masala-46-48 correctly absent, ids/titles/pages identical+order vs v3 chunk-03 minus masala-46-48, vol 52, sp==min all, 0 empty jawab, 0 empty sawal (as v3), notes 22 vs 22 (0 added, 0 missing), glosses 135x \"کا مطلب\" + 5x \"کہتے ہیں\" (140), A1=0 (no honorific verb near any opponent name — دیوبندی/مجتبیٰ حسن/مرتضیٰ حسن occur; فرمایا subjects are only Ala Hazrat, Sunni imams, علمائے حرمین), A2: مردود 1->2 (2nd is its gloss), کفر 4=4, کافر 1=1, ظلم 5=5, باطل 11=11, ناجائز 10=10; حرام 6->7 (extra inside the اباحیہ gloss \"حلال و حرام کی قید\"); no لعنتی/جہنمی/کتا/خبیث/ملعون/زندیق/کذاب/احمق/بیوقوف/ہذیان/گمراہ in original pp.146-175, none added. Restorations (Arabic quotes v3 had dropped, from original): m49 5 quotes (pp.148-150); m54 4 quotes (pp.154-156); m59-60 فی الفتح ضاق المسجد… (p.160); m62 لانہ لایحتاج الی الدعوی (p.163); m64 وقف مصحفا علی المسجد… (p.165); m65 الموت احد المتعاقدین… (p.165; original decode reads المیم، normalised to الموت); m66 فاذا تم ولزم… (p.166); m67 3 quotes (p.167); m68 7 quotes (pp.172-175). A3: all genuine per-item gaps fixed (تصرف/دعویٰ/تصریحاً/متولی/تاوان/ارصاد/سقایہ/بیعہ/مملوکہ/ڈگری/عطیہ/ہبہ/معزول وغیرہ); remaining checker hits are false positives (رضامند/نامقبول/رہنے substrings, وکیل/وکلا as lawyer titles, reverse-order glosses \"انہیں ارصاد کہتے ہیں\" etc.); وقف glossed at leaf start (m49) and in notes, not re-glossed per item. \"جاری ہے\" x0, no markers. Flags: none."
+  },
+  {
+   "chunk": "04",
+   "description": "Jild 16, pp. 176-223",
+   "end_page": 223,
+   "file": "jild-16-chunk-04.json",
+   "items": 10,
+   "pages_present": 47,
+   "start_page": 176,
+   "status": "done",
+   "verified": "2026-11-18 ~14:01 PKT — coordinator verified: 10 items, pp.176-223 (masala-69-73 -> masala-83-87), ids/titles/pages identical+order vs v3 chunk-04 + folded masala-83-87, vol 52, sp==min all, 0 empty jawab, 0 empty sawal (as v3), notes 31 vs 30 (+1, 0 missing), glosses 124x \"کا مطلب\" + 6x \"کہتے ہیں\" (130), A1=0 (no opponent names in the leaf at all — no Gangohi/Nanotvi/Thanvi etc. in pp.176-223; all 46 فرمایا/فرماتے ہیں hits have Ala Hazrat or Sunni scholars as subject; sole رحمہ اللہ is for علامہ شامی), A2: ملعونہ (p.222), کافر مرتد (pp.222-223), مردود (p.197 ٹھیکہ حرام و مردود و باطل), باطل x26 / حرام x28 / ظالم / خائن / فاسد / جہل و ضلال / بہتانِ عظیم all kept; کتا substring hits are only کتاب/کرسکتا/ہوسکتا — 0 real uses, matching the original. Restorations (Arabic, from original): p.222 یتیموں کا مال / اسراف / مبذرین verses, p.223 من شک فی عذابہ وکفرہ فقد کفر + ربنا لا تزغ قلوبنا dua; p.217-218 hadith chains (احمد/ترمذی/بیہقی، شیخین/بخاری/ابن ماجہ/بزار); refs kept (درمختار ج۳ ص۵۵۴/۵۹۴، اشباہ ص۱۹۲، عقود الدریہ ج۱ ص۱۹۲/۱۸۸، بحر الرائق ج۵ ص۲۶۰/۲۴۵/۲۶۳، فتح القدیر، تنویر الابصار، خیریہ، رد المحتار). A3: all Rule-1 words glossed at first use (خلو، اجرِ مثل، معنوی وصف، سکنیٰ، کردار، جدک، بیع الوفاء، رہنِ دخلی، مرصد، معدوم، مجہول، اعیان، ہبہ، بالاجماع، اجیرِ خاص، صلہ رحم، بطریقِ اولیٰ، تضییع، اسراف، ملعون، مرتد، ایصالِ ثواب، امرد، مزامیر، تغنی، فحول، غامض…); 2 v3 garbles fixed from the original (77: ابن کمال، 79: حساب). \"جاری ہے\" x0, no markers (the \"(جاری)\" in the 83-87 title is v3's own wording, kept exactly). FOLD verified: masala-83-87 written once, pages [220-223], sp 220, title kept exactly as v3 incl. \"(جاری)\", sawal 1,758 (v4 rewrite of chunk-05's full 1,523-char sawal; chunk-04's 283-char opening dropped as superseded), jawab 2,397 (from chunk-05's 2,026), notes 6 = all 5 v3 (2+3, in order) + 1 added fold note; separate masala-83 (قوال، p.220) kept as its own item, unmerged. Flags: none."
+  },
+  {
+   "chunk": "05",
+   "description": "Jild 16, pp. 223-261",
+   "end_page": 261,
+   "file": "jild-16-chunk-05.json",
+   "items": 20,
+   "pages_present": 37,
+   "start_page": 223,
+   "status": "done",
+   "verified": "2026-11-18 ~14:03 PKT — coordinator verified: 20 items, pp.221-261 (masala-88 -> masala-133), masala-83 correctly absent, ids/titles/pages identical+order vs v3 chunk-05 minus masala-83, vol 52, sp==min all, 0 empty jawab, 0 empty sawal (as v3), notes 44 vs 44 (0 added, 0 missing), glosses 239x \"کا مطلب\" + 1x \"کہتے ہیں\" (240; every item has 3+), A1=0 (no Deobandi/Wahabi opponent name occurs anywhere in this leaf's original or tashreeh), A2 (per-page, pp.223-261): مردود orig 4 (pp.228, 229, 230) -> v4 5 in masala-93, same passages; گمراہ orig 1 (p.235) -> v4 2 in masala-108; خبیث orig 1 (p.235, الشجرۃ الخبیثۃ) -> v4 1 with the original's own گندے پیڑ rendering; کافر orig p.235 تم کافر ہو جاؤ گے -> kept; standalone کتا 0 orig / 0 v4 (all raw hits are کتاب); ملعون/کافر/مرتد on pp.222-223 belong to the excluded masala-83 tail, correctly absent; harsh tone kept verbatim (حرامِ قطعی، سخت حرام، صریح ظلم و غصب، محض باطل، مردود). Restorations (Arabic quotes from original): 92 (3 quotes), 93 (6 quotes), 103 (فان الولایۃ مشروطۃ…), 108 (5 quotes), 114 (14 quotes incl. عالمگیریہ، قاضیخان، خزانۃ المفتین، عقود، بحر/ردالمحتار، مدخل، لا تسرفوا، کرہ لکم ثلثا، تنویر، both hadiths, لاضرر، الدین النصیحۃ), 122 (4 quotes), 123 (6 fiqh quotes + ولا تزر وازرۃ…), 124 (کما حققناہ فی فتاوٰنا), 125 (9 quotes), 127 (من فر من میراث وارثہ…), 131 (عالمگیریہ ساحۃ), 132 (3 quotes), 133 (3 quotes); no Arabic quotes exist in the original for 88, 106, 107, 120, 126, 128, 129 — none invented. \"جاری ہے\" x0, no markers. Flags: source gaps preserved via verbatim v3 notes (p.252 and p.257 missing in source DB; p.255 in two DB rows)."
+  },
+  {
+   "chunk": "06",
+   "description": "Jild 16, pp. 262-317",
+   "end_page": 317,
+   "file": "jild-16-chunk-06.json",
+   "items": 15,
+   "pages_present": 56,
+   "start_page": 262,
+   "status": "done",
+   "verified": "2026-11-18 ~14:16 PKT — coordinator verified: 15 items, pp.262-317 (masala-134 -> masala-149), ids/titles/pages identical+order vs v3 chunk-06 + folded masala-149, vol 52, sp==min all, 0 empty jawab, 0 empty sawal (as v3), notes 34 vs 34 (0 added, 0 missing), glosses 746x \"کا مطلب\" + 30x \"کہتے ہیں\" (776), A1=0 (no opponent names in this leaf at all; all فرمایا subjects are Ala Hazrat / Allah / Prophet ﷺ / Sunni imams), A2: parity verified — ظالم 13, غاصب 8, فاسق 4, کافر 13, حرام 49 in v4; original pp.262-317 has no standalone کتا/لعنتی/جہنمی/زندیق/کذاب/ملعون/خبیث/ہذیان/مردود/گمراہ (earlier hits were کتاب substrings). Restorations: 78/78 Arabic quotes restored from original — Quran pp.287, 290-291, 301; hadiths pp.289-294, 297, 309-316 (cat hadith p.311, جنبوا مساجدکم p.314, تجارت/ضالہ p.315, تحریش p.315); fiqh Arabic throughout; 0 glosses inside «» quotes. A3: 0 unglossed Rule-1 words (ممکن، محال، زوال، وقوع، معتمد، لازم، قدیم، بالاجماع all glossed at first use). FOLD verified: masala-149 written once, pages [309-317], sp 309, sawal 1,356 chars (chunk-06's 580 rewritten with glosses; chunk-07's 592-char sawal correctly dropped), jawab 13,583 (v3 concat 8,556), notes 7 (3+4, in order). Flags: sole 'جاری ہے' is 138's \"عرف جاری ہے\" — the original's own wording (بحر الرائق quote \"لان العرف جاری…\"), kept deliberately; p.311 Quranic fragment PUA-corrupted in source — NOT restored (v3 note preserved; reconstruction is a later stage); \"شارع عام\" in 141 correctly glossed as عام راستہ (no Lawgiver gloss); 149's شارع glossed as Lawgiver — correct there (شارع علیہ الصلوٰۃ والسلام)."
+  },
+  {
+   "chunk": "07",
+   "description": "Jild 16, pp. 317-365",
+   "end_page": 365,
+   "file": "jild-16-chunk-07.json",
+   "items": 25,
+   "pages_present": 48,
+   "start_page": 317,
+   "status": "done",
+   "verified": "2026-11-18 ~14:03 PKT — coordinator verified: 25 items, pp.311-365 (masala-150 -> masala-184), masala-149 correctly absent, ids/titles/pages identical+order vs v3 chunk-07 minus masala-149, vol 52, sp==min all, 0 empty jawab, 0 empty sawal (as v3), notes 44 vs 44 (0 added, 0 missing), glosses 230x \"کا مطلب\" + 1x \"کہتے ہیں\" (231; worker also counts \"سے مراد\" 114x — same definitional class), A1=0 (all فرمایا/رحمہ اللہ occurrences are for Ala Hazrat, Allah, Prophet ﷺ, or Sunni imams; no opponent honorifics — no Gangohi/Thanvi etc. in this leaf), A2: parity holds; 6 raw-count flags were all shared-page artifacts (ظالم p.323/p.355 belongs to 153/171, خبیث p.342 to 160, کافر p.348 to 166, وہابی/نیچری p.363 to 182) — each word is present in its owning item's v4 tashreeh; کتا hits in the original are mostly the کتاب substring, not the word. Restorations (Arabic, from original pp.311-365): لیس لعرق ظالم حق (159, p.340); آیت ظالم ومن اظلم… restored in 168, 169 and 171 (pp.351/355 — v3's 169 lacked it); حتی الکافر الا الجنب والحائض والنفساء in 169 (p.354) and 172 (p.359); تنویر's وطی/بول/تغوط glossed in 166; harsh words kept verbatim in 153 (ظالم، غاصب، بے دین، بے حیا) and 160 (زرِ خبیث), 173-181 (منافقانہ و کافرانہ), 182 (نیچریوں/وہابیوں). A3: all flags were substring false positives (احمد/محمد names; قدیم = old mosque; قائم/لازم ordinary usage); Rule-1 words (شعائر، متعنت، مسجدِ ضرار، عرقِ ظالم، زرِ خبیث، تابید، اجرتِ مثل…) glossed at first use. \"جاری ہے\" x0; the 13 \"صفحہ + digits\" hits are all the original's own book/page citations (درمختار جلد ۳ صفحہ ۶۲۴ etc.) kept per Rule 7 — not tashreeh page markers; 0 structural page markers. Flag: original p.361 is missing from the source DB (carried over in the v3 note for 173-181); nothing invented for it."
+  },
+  {
+   "chunk": "08",
+   "description": "Jild 16, pp. 370-422",
+   "end_page": 422,
+   "file": "jild-16-chunk-08.json",
+   "items": 15,
+   "pages_present": 53,
+   "start_page": 370,
+   "status": "done",
+   "verified": "2026-11-18 ~14:12 PKT — coordinator verified: 15 items, pp.370-422 (masala-185 -> masala-211), ids/titles/pages identical+order vs v3 chunk-08 + folded masala-211, vol 52, sp==min all, 0 empty jawab, 0 empty sawal (as v3), notes 31 vs 31 (0 added, 0 missing), glosses in sawal+jawab: \"کا مطلب\" 0x + \"کہتے ہیں\" 6x — the worker used a scripted transform whose glosses run via \"یعنی\" (943x, up from 22 in v3; total chars 88,582 -> 103,750, +17.1%); A3 spot-checked substantively on occurring hard words — تملیک (تملیک یعنی مالک بنانے کی)، تقسیم (غیر منقسم یعنی تقسیم نہ ہوئی ہے)، قدیم (مراسم قدیم یعنی پرانے تعلقات)، ممکن، محال (بفرض محال یعنی محال کو فرض کر لیا جائے)، بالاجماع (بالاجماع یعنی سب کے اتفاق سے) all glossed definitionally at first use in their item; title words مصالحہ/متواری/ابانہ occur only in the v3-exact title, not the tashreeh body. A1=0 on the coordinator's list; the worker's 1 flag (masala-205, \"جواب میں فرمایا کہ جو مساجد غیر مقلدوں کی…\") is a false positive — verb belongs to Ala Hazrat, غیر مقلدوں is the topic; refuted 'alim's فرمایا -> کہا fixed in 185; sole رحمہ اللہ is for Imam Muhammad (Sunni, correct). A2: parity — خبیث 1=1, مردود 1=1, کفار 6=6, کافر 8->7 (the original repeats \"حتی الکافر\" once in Arabic and once in Urdu — \"علماء کے قول حتی الکافر یعنی حتیٰ کہ کافر کا یہی معنی ہے\" — the passage is fully rendered, the count difference is the double rendering, not a drop); all other harsh words 0=0; standalone کتا 1=1 is روکتا, not the insult; no dog-insult in this range. Restorations: the \"دفع الضرر العام\" maxim (orig p.395) restored — absent from v3 tashreeh (\"اس قاعدے کا عربی نام «دفع الضرر العام» ہے\"); Arabic refs kept (حتی الکافر 2, فاعتبروا یا اولی الابصار 4, نسأل اللہ العفو والعافیۃ 5, درمختار 5, etc.); \"اللہم انی اتوب…\" present with diacritics. COORDINATOR FIX-UP (Jild 14 leaf-09 precedent): masala-185 — \"بالاجماع\" occurred once with no adjacent gloss (\"جانور تو بالاجماع مکلف نہیں\"); inserted \"یعنی سب کے اتفاق سے\" (the same gloss the worker used in masala-198). Worker SHA d4c27621… SUPERSEDED; fixed SHA be8957d9cc9f25da0e4428793fea68a6d59f1a7edfbfac6853116c4d85e88dfb, re-verified clean. \"جاری ہے\" x0, no markers (worker: \"جاری ہے\"/\"صفحہ\"/\"صفحات\" = 0). FOLD verified: masala-211 written once, pages [420-422], sp 420, sawal 1,637 (v3 1,243), jawab 1,750 (v3 1,311), notes 4 (2+2, verbatim, in order); reverse-applying all 211 edits reproduces chunk-09's originals exactly (sawal 11/11, jawab 8/8). Method note: worker wrote via cp from a scripted transform (exec writes verified working; EPERM fault cleared) — output judged by the same verification, method secondary. Flags: none."
+  },
+  {
+   "chunk": "09",
+   "description": "Jild 16, pp. 422-473",
+   "end_page": 473,
+   "file": "jild-16-chunk-09.json",
+   "items": 38,
+   "pages_present": 52,
+   "start_page": 422,
+   "status": "done",
+   "verified": "2026-11-18 ~14:03 PKT — coordinator verified: 38 items, pp.421-473 (masala-212 -> masala-277), masala-211 correctly absent, ids/titles/pages identical+order vs v3 chunk-09 minus masala-211 + folded masala-277, vol 52, sp==min all, 0 empty jawab, 0 empty sawal (as v3), notes 39 vs 39 (0 added, 0 missing), glosses 154x \"کا مطلب\" + 5x \"کہتے ہیں\" (159), A1=0 (no opponent names in this leaf except \"غیر مقلدین جواز کے قائل ہیں\" in 244's sawal, plain verb, no honorific), A2: no لعنتی/جہنمی/کتا (standalone)/خبیث/ملعون/زندیق/کذاب/احمق/بیوقوف/ہذیان in original pp.421-473 at all; parity held — مردود 4=4، فاسد 1=1، ظالم/فاسق/بدخواہ/گمراہ/رافضی present in v4 (counts slightly higher only from gloss repetitions); کافر 8 in v4 vs 7 orig (Arabic لکافر quote now restored); کتا 46 vs 50 are all کتاب substrings, standalone 0=0. Restorations (Arabic quotes from original): Quranic ayat pp.446-447 (257, 258); اتبعوا السواد الاعظم p.424 (217); لایجوز نقلہ ولا نقل مالہ الی مسجد آخر pp.425/447 (217, 258); من قال انا عالم فھو جاہل p.426 (221); من بنی للہ مسجدا ولو کمفحص قطاۃ… p.430 (226); اذا مررتم بریاض الجنۃ… p.431 (228); افتان انت یا معاذ x3 p.435 (235); جنبوا مساجدکم صبیانکم ومجانینکم pp.439/463 (245, 266); من وصل صفا… p.444 (251); لان الضرورات تبیح المحظورات p.445 (255); لیس لعرق ظالم حق p.458 (266); انی نھیت عن زبد المشرکین + 3 more hadiths pp.467/472 (274, 277); جعلت لی الارض مسجدا وطھورا + عادی الارض للہ ولرسولہ p.470 + ماکان لکافر غیر ذمی… p.471 (277); انما بعثت معلما + انا لکم بمنزلۃ الوالد p.468 (276); ھذا ما عندی والعلم بالحق عند ربی p.473 (277). A3: Rule-1 words glossed at first use (وقف، استبدال، تملیک/اباحت، حکر/محتکرہ، فناءِ مسجد، مسجدِ ضرار، عرقِ ظالم، فے، زبد المشرکین، بدعتِ مستحبہ، مفتی بہ، مستفسرہ، مبنائے سوال، مستحسن etc.); spot-check found 4 missed words (مستحسن، مبنائے سوال، مفتی بہ، مستفسرہ) — all fixed by the worker before final verify. \"جاری ہے\" x2, both the original's own sentences (222 \"جمعہ جماعت جاری ہے\"، 245 \"یہ عمل… جاری ہے\"), not continuity meta-language; page markers in tashreeh body 0 (صفحہ references survive only inside verbatim-preserved v3 notes). FOLD verified: masala-277 written once, pages [469-473], sp 469, sawal 1,328 chars (chunk-09's, exact), jawab 4,762 chars (both halves joined flowingly via the original p.470-471 bridge \"اگر اس کا رفض حدِ کفر تک نہ تھا… مسجد ہو گئی\"), notes 5 (2+3, in order); v3's meta \"جواب جاری ہے / تسلسل\" sentences removed from body (0 in tashreeh text); v3's chunk-09 masala-277 half ended mid-sentence (\"اگر اس کا رفض حدِ کفر تک —\") — the v4 join completes it from the original p.470-471 text, verified verbatim. Flags: none blocking."
+  },
+  {
+   "chunk": "10",
+   "description": "Jild 16, pp. 473-522",
+   "end_page": 522,
+   "file": "jild-16-chunk-10.json",
+   "items": 34,
+   "pages_present": 50,
+   "start_page": 473,
+   "status": "done",
+   "verified": "2026-11-18 ~14:07 PKT — coordinator verified: 34 items, pp.471-522 (masala-278 -> masala-319), jild16-p470 correctly absent, ids/titles/pages identical+order vs v3 chunk-10 minus jild16-p470 + folded masala-319, vol 52, sp==min all, 0 empty jawab, 0 empty sawal (as v3), notes 66 vs 64 (+2: 319 fold note, 315 garbled-hadith flag; 0 missing), glosses 251x \"کا مطلب\" + 1x \"کہتے ہیں\" (252 — the worker's late A3 fixes added 14 glosses after the coordinator's first verify; final SHA 282d2590… re-verified), A1=0 (worker reported 2 flags, both masala-310, both false positives — verb belongs to Ala Hazrat: \"اعلیٰ حضرت رحمۃ اللہ علیہ فرماتے ہیں کہ اگر اس مسجد کا بانی رافضی…\"; the coordinator's first verify also flagged masala-285 دیوبندی + فرمائیں — same false-positive class, verb belongs to Ala Hazrat — and the final file's inserted \"باصواب کا مطلب ہے درست جواب\" gloss pushes it outside the 60-char window; content intact), A2: every real harsh term from original pp.473-522 present in its item (جہنمی p519, مردود pp.504/518, فاجر p479, مرتد pp.509/511, کافر pp.508/511/515-520, خائن/غاصب p474, عاصی/مجرم p492, ظالم pp.497/511/516, حرام throughout); کتا hits in the original are all کتاب/سکتا substrings, جہول hits are مجہول — both confirmed false positives. Restorations (Arabic, from original): hadith ومن دل علی خیر… p473; درمختار/خیریہ/غیبت passages pp.474/476/477; Quran ان الذین یحبون ان تشیع الفاحشۃ… p478, انما یاکلون فی بطونہم نارا… p492, وان المساجد للہ p487, ومن اظلم ممن منع مساجد اللہ… (full, p497) + p516 fragment, الا ان تکون تجارۃ عن تراض منکم p500, فأعقبہم نفاقا… p486, ومن یکرہہن… p518; hadiths لاطاعۃ… p483, جنبوا مساجدکم… p512, قبر hadiths p513, لینتھین اقوام…/خمرھما…/انما الاعمال بالنیات… pp.503-504; fiqh citations pp.480-481/484-486/487/491/493-497/499/501/506-507/509-510/513-514/517-522 (incl. full 319 chain pp.517-522); 86 Arabic segments restored in total. A3: 14 targeted glosses added (قدیم، صواب، معتمد، حادث، بالاجماع، بطریق، لازم، قدیم الایام); remaining Rule-1 matches judged non-hard ordinary usage (قائم = established, تقسیم = distribution, حمد/مبرا as substrings of محمد/ممبران). \"جاری ہے\" x1 legitimate — the original's own sentence in masala-311 sawal (\"کنواں و پیاؤ… بدستور جاری ہے\"), also in v3; 0 page markers in tashreeh_jawab. FOLD verified: masala-319 written once, pages [515-522], sp 515, sawal 2,996 (v3 2,731), jawab 10,715 (v3 7,532), notes 8 (7 v3 in order + 1 fold note); the v3 \"جواب جاری ہے\" bridge sentence dropped so the halves flow as one. Flags: p513 hadith لان اطأ علی جمرۃ… tail is garbled in the source (\"او ماھذا معناہ\") — only the clean part quoted, flagged in a 315 note; p477 خیریہ quote's tail is cut in the source, the complete clause only quoted."
+  },
+  {
+   "chunk": "11",
+   "description": "Jild 16, pp. 522-571",
+   "end_page": 571,
+   "file": "jild-16-chunk-11.json",
+   "items": 32,
+   "pages_present": 50,
+   "start_page": 522,
+   "status": "done",
+   "verified": "2026-11-18 ~14:03 PKT — coordinator verified: 32 items, pp.521-571 (masala-320 -> masala-359), jild16-p521 correctly absent, ids/titles/pages identical+order vs v3 chunk-11 minus jild16-p521 + folded masala-359, vol 52, sp==min all, 0 empty jawab, 0 empty sawal (as v3), notes 60 vs 59 (+1, 0 missing), glosses 21x \"کا مطلب\" + 102x \"کہتے ہیں\" in sawal+jawab after coordinator fix-up (worker counted 18+104=122 file-wide incl. notes — counting difference only; \"کہتے ہیں\" pattern dominates, same mix as the Jild 9 chunk 08 precedent; A3 spot-checked on occurring hard words — وقف، تولیت، تعزیر، تصرف، متولی all glossed definitionally; \"مبرا\" hit was the substring inside فرمانبردار, not the kalam term), A1=0 (no opponent name near فرمایا/رحمہ اللہ — سرسید احمد خان plain, no honorific), A2: harsh-word parity met or exceeded vs original pp.521-571 (word-boundary): کافر 18 vs 17، فاسق 14 vs 11، رافضی 8 vs 6، مردود 6 vs 3، فاجر 4 vs 2، مرتد 5 vs 1، کتے 1 vs 1، وہابی 1 vs 1; tone kept harsh throughout (حرامِ محض، کفار مرتدین، اشد حرام وغیرہ). Restorations (Arabic, from original): 321 p.523 ردالمحتار/قنیہ/درمختار quotes; 323 p.526 verse 2:114 + لاھل المحلۃ…; 330 pp.529-530 4 quotes; 333 p.535 عالمگیری quote; 334 p.538 لانہ یستحق الازالۃ…; 335 p.538 لیس لعرق ظالم حق + ہندیہ quote; 346 p.548 الوقف اذا لزم…; 348 p.550 full 2:114 + من ضیق… + من استرعی الذئب…; 353 p.556 قاضی خان + قاضی quotes; 354 p.560 بطن quote; 355 p.563 درمختار/استحلال/تعزیر quotes; 358 p.569 درمختار quotes; 359 pp.570-571 5 quotes + Persian couplet مؤذن گریباں گرفتش… + dua اللّٰھم لاتجعل لفاجر علی یدًا. COORDINATOR FIX-UP (Jild 14 leaf-09 precedent): masala-352 — \"استحقاق\" had 2 occurrences with no definitional gloss; inserted \"— استحقاق کا مطلب ہے حق ہونا، یعنی تولیت کا حق دار ہونا —\" at first use. Worker SHA 287307bb… SUPERSEDED; fixed SHA d6ee97c22b45bab4a9dc3c7e83153be4bf79af090ff4fd7a040820c20eb58053, re-verified clean (glosses now 21+102). \"جاری ہے\" x0 in sawal+jawab; the only remaining \"جاری ہے\" is inside one preserved-verbatim v3 note on masala-359 (the old split note, kept per the never-alter-notes rule — stale split-meta class); remaining \"جاری\" uses (میراث جاری، سلسلہ جاری رہے، جاری معلوم) are the original's own wording; 0 page markers. FOLD verified: masala-359 written once, pages [569-571], sp 569, sawal 289 chars (chunk-11 exact), jawab 2,105 chars (split-duplicate sentence dropped, all content kept), notes 5 = 4 v3 verbatim (2+2) + 1 added fold note; v3's bracket marker \"[جواب صفحہ 571 پر جاری ہے…]\" removed from body. Flags: none."
+  },
+  {
+   "chunk": "12",
+   "description": "Jild 16, pp. 571-625",
+   "end_page": 625,
+   "file": "jild-16-chunk-12.json",
+   "items": 29,
+   "pages_present": 54,
+   "start_page": 571,
+   "status": "done",
+   "verified": "2026-11-18 ~14:04 PKT — coordinator verified: 29 items, pp.571-625 (masala-360-365 -> masala-428), masala-359 correctly absent, ids/titles/pages identical+order vs v3 chunk-12 minus masala-359 + folded masala-428, vol 52, sp==min all, 0 empty jawab, 0 empty sawal (as v3), notes 32 vs 31 (+1, 0 missing), glosses 439x \"کا مطلب\" + 57x \"کہتے ہیں\" (496), A1=0 (3 flags, ALL false positives — every \"فرماتے ہیں\" belongs to Ala Hazrat: masala-399 \"اعلیٰ حضرت رحمۃ اللہ علیہ فرماتے ہیں کہ تقدیر کا منکر رافضی معتزلی گمراہ ہے\" (x2 in the item) and masala-428 \"فرماتے ہیں کہ اہلسنت کی کسی مسجد… کا متولی رافضی کو کرنا…\" — رافضی is the topic/insulted group in all three; the worker's \"0 flags\" undercounts — it did not include رافضی in its opponent list; the file is correct), A2: all standalone harsh words from original pp.571-625 present (مردود p.577, گمراہ pp.590/615, سفیہ/احمق pp.593-594, کافر 34x/مرتد 8x in 428); 3 apparent misses were boundary-page false positives (p.590 گمراہ belongs to 399; p.614 کافر/مرتد belong to 428). Restorations (Arabic quotes from original): درمختار ینزع وجوبا… in 360-365/383/384/389/404/411/413-416/419/420; hadiths من استعمل علی عشرۃ…، لان یجلس احدکم علی جمرۃ…، علی الید ما اخذت حتی تردھا، مات النصرانی والسلام، اجعلوا ائمتکم خیارکم…، سید القوم خادمہم، انا لن نستعمل علی عملنا من ارادہ، من کان لہ سعۃ ولم یضح…، ثلثۃ لاترفع صلاتہم…، اذا مدح الفاسق…، تبجیل الکافر کفر، المرتد اقبح کفرا…، من قطع صفا قطعہ اللہ، ولاتصلوا علیہم ولاتصلوا معہم، من شک فی عذابہ وکفرہ فقد کفر، plus 428's سیأتی قوم لھم نبز یقال الرافضۃ… and p.625 واللہ یقول الحق…. A3: Rule-1 words glossed at first use per item; 6 surgical patches added for ممکن/تقدیم/معتمدہ; remaining scan hits were substrings (حمد in محمد, قائم/لازم as common words, مبرا in ممبرانہ, وہم as Arabic وہُمْ). \"جاری ہے\" x0 (both v3 occurrences in 409-410 sawal were rephrased by the worker to چل رہا ہے/چل رہا تھا — the original's own wording; a style choice, not a defect); no markers. FOLD verified: masala-428 written once, pages [614-625], sp 614, sawal 387 (v3 291), jawab 20,239 (v3 14,302), notes 8 = 7 v3 verbatim + 1 added fold note; ends with p.625's واللہ یقول الحق… close. Flags: none."
+  },
+  {
+   "chunk": "13",
+   "description": "Jild 16, pp. 625-636",
+   "end_page": 636,
+   "file": "jild-16-chunk-13.json",
+   "items": 5,
+   "pages_present": 12,
+   "start_page": 625,
+   "status": "done",
+   "verified": "2026-11-18 ~14:00 PKT — coordinator verified: 5 items, pp.625-636 (masala-429 -> khatima), jild16-p625 correctly absent, ids/titles/pages identical+order vs v3 chunk-13 minus jild16-p625, vol 52, sp==min all, 0 empty jawab, 1 empty sawal (khatima — as v3), notes 22 vs 22 (0 added, 0 missing), glosses 80x \"کا مطلب\" + 1x \"کہتے ہیں\" (81), A1=0 (no opponent names in this leaf; honorifics used only for Ala Hazrat / Sunni imams — ابویوسف، شیخ ہلال، امام خصاف، مشائخ), A2: no harsh words in the original for pp.625-636 within this leaf's items (word-boundary check: مردود 2=2 parity; raw \"کتا\"x9 / \"جہول\"x2 hits were substrings of کتاب/ہوسکتا/مجہول; \"مرتدین\"x1 sits in the excluded p.625 tail, leaf 12's passage). Restorations (Arabic quotes v3 had only paraphrased, now restored from original): 429 — اجارۃ الضرع quote (p.626) + کما فی الاشباہ و الھندیۃ (p.626); 430 — درمختار یراعی شرط الواقف… (p.628); 431 — عالمگیری استبدال + خصاف/ذخیرہ (pp.630-631), درمختار/ردالمحتار/اسعاف/فتح القدیر (pp.631-632), اشباہ قاعدہ + قنیہ (p.632), عالمگیری رباط + قاضی خان + ظہیریہ + وجیز/بحر/ہندیہ (pp.633-634); 432 — درمختار تفویض + اقارب + امامت quotes (pp.635-636). A3: all Rule-1 hard words glossed definitionally at first use per item (one fix applied: دوام gloss added in masala-430 sawal); \"پٹہ\" appears inflected as \"پٹے\" with gloss. \"جاری ہے\" x0; sole \"جاری\" is the original's own sentence in quoted document A (\"اس میں کبھی وراثت جاری نہ ہو گی\"); no markers. Flags: none."
+  }
+ ],
+ "total_pages_present": 549,
+ "total_unique_pages": 542,
+ "volume": "Jild 16",
+ "volume_ids": [
+  52
+ ]
+}
